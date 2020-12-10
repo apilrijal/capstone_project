@@ -1,1 +1,1 @@
-# capstone_project
+# loan_creditibility_predictor
